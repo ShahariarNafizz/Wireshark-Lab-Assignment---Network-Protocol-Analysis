@@ -36,8 +36,4 @@ The goal of this lab is to:
 - Identify anomalies and performance issues in network traffic
 - Use Wireshark as a diagnostic and troubleshooting tool in real-world scenarios
 
----
 
-> ⚠️ **Note:** All data captured is anonymized and used strictly for academic purposes in accordance with university guidelines.
-
-Feel free to explore, fork, or contribute to this repository if you're working on a similar assignment. Happy analyzing! 🚀
