@@ -1,47 +1,43 @@
-# Wireshark-Lab-Assignment---Network-Protocol-Analysis
-📡 Wireshark Lab Assignment - Network Protocol Analysis
-This repository contains my lab work for the Wireshark Protocol Analysis assignment, completed as part of my computer networking coursework. The primary objective of this lab is to deepen understanding of network protocols by capturing and analyzing live packet data using Wireshark, a powerful and widely-used network protocol analyzer.
+# 📡 Wireshark Lab Assignment - Network Protocol Analysis
 
-🔍 Objective
+This repository contains my lab work for the **Wireshark Protocol Analysis** assignment, completed as part of my computer networking coursework. The primary objective of this lab is to deepen understanding of network protocols by capturing and analyzing live packet data using **Wireshark**, a powerful and widely-used network protocol analyzer.
+
+---
+
+## 🔍 Objective
+
 The goal of this lab is to:
 
-Gain hands-on experience with packet sniffing and protocol dissection
+- Gain hands-on experience with **packet sniffing** and **protocol dissection**
+- Explore the behavior of fundamental protocols like **HTTP, TCP, UDP, DNS, ICMP, and ARP**
+- Learn to trace connection setups and teardowns (e.g., TCP 3-way handshake)
+- Analyze packet structure, flags, payloads, and headers
+- Investigate common issues and performance indicators in network communication
 
-Explore the behavior of fundamental protocols like HTTP, TCP, UDP, DNS, ICMP, and ARP
+---
 
-Learn to trace connection setups and teardowns (e.g., TCP 3-way handshake)
+## 🛠 Tools & Setup
 
-Analyze packet structure, flags, payloads, and headers
+- **Wireshark** (latest stable version)
+- Internet connection for real-time traffic capture
+- Custom **Wireshark display filters** for protocol-specific analysis
 
-Investigate common issues and performance indicators in network communication
+---
 
-🛠 Tools & Setup
-Wireshark (latest stable version)
+## 📂 Contents
 
-Internet connection for real-time traffic capture
 
-Filter expressions for protocol-focused analysis
+---
 
-📂 Contents
-capture_files/: PCAP files from the lab session
+## 🧠 Key Learning Outcomes
 
-screenshots/: Annotated screenshots showing captured packet analysis
+- Apply Wireshark filters to isolate specific traffic efficiently
+- Interpret packet-level data to understand protocol functionality
+- Identify anomalies and performance issues in network traffic
+- Use Wireshark as a diagnostic and troubleshooting tool in real-world scenarios
 
-lab_report.pdf: Formal report including:
+---
 
-Protocol-specific analysis (HTTP, TCP, DNS, etc.)
+> ⚠️ **Note:** All data captured is anonymized and used strictly for academic purposes in accordance with university guidelines.
 
-Key findings and observations
-
-Answers to assigned lab questions
-
-README.md: Overview of the lab and learning outcomes
-
-🧠 Key Learning Outcomes
-Effectively apply Wireshark filters to isolate specific traffic
-
-Interpret packet-level data to understand protocol operations
-
-Identify anomalies and potential issues in packet flows
-
-Build confidence in using Wireshark as a diagnostic and educational tool
+Feel free to explore, fork, or contribute to this repository if you're working on a similar assignment. Happy analyzing! 🚀
